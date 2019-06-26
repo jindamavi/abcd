@@ -1,1 +1,3 @@
 # abcd
+
+permalink: /index.html
